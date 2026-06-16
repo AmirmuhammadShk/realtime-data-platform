@@ -23,7 +23,3 @@ __pycache__/
 *.pyc
 .venv/
 
-# Generated files
-docs/*.pdf
-diagrams/*.png
-diagrams/*.svg
