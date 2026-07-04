@@ -1,4 +1,4 @@
-# Predictiva RealTime Data Platform
+# RealTime Data Platform
 
 This repository contains a production infrastructure design for a realtime market data, news, sentiment, and ML feature streaming platform.
 
